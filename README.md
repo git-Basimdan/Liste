@@ -1,2 +1,2 @@
-# Liste
-Güncel Liste
+# Türkçe Liste
+Güncel Listeler burda
